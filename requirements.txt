@@ -1,0 +1,12 @@
+torch==1.4.0
+absl-py==0.12.0
+pyparsing==2.4.7
+termcolor==1.1.0
+tb-nightly==1.15.0a20190801
+imageio==2.9.0
+scipy==1.5.4
+gym==0.18.0
+numpy==1.19.5
+git+git://github.com/deepmind/dm_control.git
+git+git://github.com/denisyarats/dmc2gym.git@62ca3d886eb59a1927720d036be210bedc6d9f48
+git+git://github.com/facebookresearch/hydra@0.11_branch
