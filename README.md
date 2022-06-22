@@ -1,8 +1,8 @@
 # CGAR: Critic Guided Action Redistribution in Reinforcement Leaning
 
->Code for the paper
->
+Code for the paper
 CGAR: Critic Guided Action Redistribution in Reinforcement Leaning
+Paper link:
 Tairan Huang, Xu Li, Hao Li, Mingming Sun, Ping Li
 IEEE Conference on Games (CoG), 2022
 
