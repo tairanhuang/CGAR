@@ -42,5 +42,6 @@ If you feel our work is useful for your research, please consider citing our wor
   author={Tairan Huang, Xu Li, Hao Li, Mingming Sun, Ping Li},
   booktitle={2022 IEEE Conference on Games (CoG)}, 
   title={CGAR: Critic Guided Action Redistribution in Reinforcement Leaning}, 
-  year={2022},
+  year={2022}
+}
 ```
