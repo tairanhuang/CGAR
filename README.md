@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Running
 
-To get the results in the paper, run this command in sac/cgar-sac:
+To get the results in the paper, run this command in sac or cgar-sac:
 
 ```train
 python train.py device=cuda:0 seed=1 env=walker_walk hydra.run.dir=log K=200
