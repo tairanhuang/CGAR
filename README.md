@@ -1,10 +1,13 @@
 # CGAR: Critic Guided Action Redistribution in Reinforcement Leaning
 
-## paper link
->arxiv
+>Code for the paper
+>
+CGAR: Critic Guided Action Redistribution in Reinforcement Leaning
+Tairan Huang, Xu Li, Hao Li, Mingming Sun, Ping Li
+IEEE Conference on Games (CoG), 2022
 
 ## Requirements
-Get Mujoco license from: http://www.mujoco.org/index.html
+Install Mujoco from: http://www.mujoco.org/index.html
 
 To install requirements:
 
@@ -17,7 +20,7 @@ pip install -r requirements.txt
 To get the results in the paper, run this command in sac/cgar-sac:
 
 ```train
-python train.py device=cuda:0 seed=1 env=finger_spin hydra.run.dir=log K=200
+python train.py device=cuda:0 seed=1 env=walker_walk hydra.run.dir=log K=200
 
 ```
 
