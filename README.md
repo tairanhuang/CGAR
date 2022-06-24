@@ -4,7 +4,7 @@ Code for the paper
 
 CGAR: Critic Guided Action Redistribution in Reinforcement Leaning
 
-Paper link:
+Paper link: https://arxiv.org/abs/2206.11494
 
 Tairan Huang, Xu Li, Hao Li, Mingming Sun, Ping Li
 
